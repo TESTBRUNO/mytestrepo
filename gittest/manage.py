@@ -24,4 +24,4 @@ if __name__ == '__main__':
 
 
 
-ВОТ это я изменил
+fsdgdfgdfg
